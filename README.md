@@ -1,4 +1,4 @@
-## hello fellas 👋
+## Hello Fellas 👋
 
 Working: Front-End developer at Ilegra<br/>
 Studying: Analysis and systems development at UniRitter<br/>
