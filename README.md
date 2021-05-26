@@ -1,6 +1,6 @@
 ## Hello Fellas 👋
 
-Working: Front-End developer at Ilegra<br/>
+Working: Front-End developer not alocated<br/>
 Studying: Analysis and systems development at UniRitter<br/>
 Hobbies: Series and Games<br/>
 
