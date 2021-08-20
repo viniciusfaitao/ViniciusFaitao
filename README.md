@@ -1,6 +1,6 @@
 ## Hello Fellas 👋
 
-Working: Front-End developer not alocated<br/>
+Working: Front-End developer at Monitora Soluções Tecnologicas<br/>
 Studying: Analysis and systems development at UniRitter<br/>
 Hobbies: Series and Games<br/>
 
