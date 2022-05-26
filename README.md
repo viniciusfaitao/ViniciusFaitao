@@ -1,10 +1,10 @@
 ## Hello Fellas 👋
 
 Working: Front-End developer at Monitora Soluções Tecnologicas<br/>
-Studying: Analysis and systems development at UniRitter<br/>
+Gratuated: Analysis and systems development at UniRitter<br/>
 Hobbies: Series and Games<br/>
 
-The green dots on my [**GitHub** profile](https://github.com/viniciusfaitao) represent my journey :running_man: - This is Vinicius Faitão. I have over one year’ experience as a React Developer and Angular 2 ~ 12. I have experience in Android native, React Native, Web development(Reactjs, JS, Angular, Nodejs) for database, i use Firebase, Firestore, Mysql, mongodb and SQL, and other experiences more. 
+The green dots on my [**GitHub** profile](https://github.com/viniciusfaitao) represent my journey :running_man: - This is Vinicius Faitão. I have over three years’ experience as a React Developer and Angular 2 ~ 1e. I have experience in Web development(Reactjs, JS, Angular) at backend i use Nodejs or JAVA and database, i use Firebase, Firestore, Mysql, mongodb and SQL. And i have other experiences more, call me and i tell you. :D 
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
