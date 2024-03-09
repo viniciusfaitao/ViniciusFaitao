@@ -1,6 +1,6 @@
 ## Hello Fellas 👋
 
-Working: Front-End developer at Serasa Experian<br/>
+Working: Specialist Developer at Serasa Experian<br/>
 Gratuated: Analysis and systems development at UniRitter<br/>
 Hobbies: Series and Games<br/>
 
